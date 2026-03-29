@@ -192,7 +192,7 @@ git clone https://github.com/AathiganapathiK/Medical-Insurance-Charges-Predictio
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-3. Run the notebook
+3. Change Dataset path and Run the notebook
 ```
 jupyter notebook
 ```
